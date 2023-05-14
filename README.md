@@ -22,6 +22,16 @@
   ① flask db init <br>
   ② flask db migrate <br>
   ③ flask db upgrade <br>
+  
 ##
 ### ❄️ 项目目录介绍
 ![图片1](https://github.com/Vegemo-bear/flask-Vue3-LiteAI/assets/127828066/b4f1d747-cd83-4129-8735-ef6393af2c33)
+##
+### ⛈️ Finally, Here are my flask and vue3 project!☔
+- ☁️ [Vegemo-bear's project：flask-LiteAI ‍❤️‍](https://github.com/Vegemo-bear/flask-LiteAI)
+- ☁️ [Vegemo-bear's project：Vue3-LiteAI ‍❤️‍](https://github.com/Vegemo-bear/Vue3-LiteAI)
+
+##
+### ⛈️ Finally and finally, Here are my other blogs!⛈️☔
+- ⭐  [Vegemo-bear's home page in zhihu ‍❤️‍](https://www.zhihu.com/people/ming-yue-yi-jiu-63/posts)
+- ⭐  [Vegemo-bear's home page in CSDN ‍❤️‍](https://blog.csdn.net/Moon_Remain_?type=blog)
