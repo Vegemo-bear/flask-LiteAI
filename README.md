@@ -16,12 +16,14 @@
 ##
 ### ❄️ 部署流程
 1）进入项目目录，终端执行命令（自动安装完项目依赖）：<br>
-  - pip3 install -r requirements.txt <br>
+   ``` pip3 install -r requirements.txt ```<br>
 2）需要自行安装mysql数据库（网上很多教程） <br>
 3）生成数据库相关表，依次执行以下命令（中途会生成migrations文件夹）：<br>
-  - ① flask db init <br>
-  - ② flask db migrate <br>
-  - ③ flask db upgrade <br>
+```
+flask db init
+flask db migrate
+flask db upgrade
+```
   
 ##
 ### ❄️ 项目目录介绍
