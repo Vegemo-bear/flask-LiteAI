@@ -15,7 +15,7 @@
 | Algorithm  | DB + SVTR |
 ##
 ### ❄️ 部署流程
-1）进入项目目录，终端执行命令（自动安装完项目依赖）：<br>
+1）进入项目目录，终端执行命令（自动安装完项目依赖），推荐加上豆瓣源下载（速度很快）：<br>
    ``` pip3 install -r requirements.txt -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com```<br>
 2）需要自行安装mysql数据库（网上很多教程） <br>
 3）生成数据库相关表，依次执行以下命令（中途会生成migrations文件夹）：<br>
