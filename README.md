@@ -35,4 +35,4 @@ flask db upgrade
 
 ##
 ### ⛈️ Finally and finally, Here are my other blogs!⛈️☔
-- ⭐  [Vegemo-bear's home page in zhihu ‍❤️‍](https://space.bilibili.com/388653705)
+- ⭐  [Vegemo-bear's home page in bilibili ‍❤️‍](https://space.bilibili.com/388653705)
