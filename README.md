@@ -35,5 +35,4 @@ flask db upgrade
 
 ##
 ### ⛈️ Finally and finally, Here are my other blogs!⛈️☔
-- ⭐  [Vegemo-bear's home page in zhihu ‍❤️‍](https://www.zhihu.com/people/ming-yue-yi-jiu-63/posts)
-- ⭐  [Vegemo-bear's home page in CSDN ‍❤️‍](https://blog.csdn.net/Moon_Remain_?type=blog)
+- ⭐  [Vegemo-bear's home page in zhihu ‍❤️‍](https://space.bilibili.com/388653705)
